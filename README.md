@@ -10,7 +10,7 @@
 
 ## Current Projects I am working on!
 
-### 1.  FileTask - Task Assigning and Marking System
+### 1.  FileTask - Task Assigning and Marking System --- [link](https://github.com/Passenger108/FileTask)
     FileTask - Task Assigning and Marking System
     ❗Note: This project is best viewed on desktop (not fully optimized for mobiles yet)
 
@@ -27,7 +27,7 @@
 
 
 
-### 2. react-hooks-wallet - Super 20 ( A react library )
+### 2. react-hooks-wallet - Super 20 ( A react library ) --- [link](https://github.com/Passenger108/react-hooks-wallet)
     Project Goal:
     This library provides 20 real-world, reusable custom React hooks built from scratch using both core and advanced built-in React APIs. The aim is to strengthen mastery in:
      • Functional React design patterns
