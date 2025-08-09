@@ -4,6 +4,8 @@
 
 ---
 
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Passenger108&show_icons=true&theme=radical)
+
 ## 🚀 Current Skills & Experience
 
 ### 🖥️ Frontend Development
@@ -68,4 +70,6 @@ E --> F[MongoDB & Database Integration]
 I believe every line of code should not only work but tell a story of clarity, purpose, and scalability.  
   
 ---
+
+## ![Profile views](https://komarev.com/ghpvc/?username=Passenger108&color=blue&style=flat)
   
