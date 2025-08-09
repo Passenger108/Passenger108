@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Nitin Saini**  
 
-💻 **Aspiring Full-Stack Developer** | Passionate about building **responsive, scalable, and user-friendly applications**.  
+💻 **Aspiring Engineer** | Passionate about  **techs and building something of my own**.  
 
 ---
 
